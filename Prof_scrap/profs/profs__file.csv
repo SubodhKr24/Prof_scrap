@@ -1,0 +1,603 @@
+
+phone,name,dept,ids,degn,email
+4826,Abdus Samad,OE,1,AP,samad
+4074,Abhijit Chaudhuri,AM,2,AP,abhijit.chaudhuri
+4169,Abhijit Deshpande P,CH,3,Prof,abhijit
+4723,Abhijit Sarkar,ME,4,AP,asarkar
+4717,Achintya Mukhopadhyay,ME,5,Prof,achintya
+4881,Aditi Simha R,PH,6,AP,phyadt
+4762,Ajay Kumar Shukla,MM,7,AP,shukla
+4276,Alagusundaramoorthy P,CE,8,Prof,aspara0
+4121,Amal Kanti,BT,9,ASP,amal
+4019,Amit Kumar,AE,10,Prof,amitk
+4575,Amit R K,MS,11,AP,rkamit
+4416,Amitava Das Gupta,EE,12,Prof,adg
+4724,Amitava Ghosh,ME,13,AP,amitava_g
+4277,Amlan K Sengupta,CE,14,Prof,amlan
+4234,Amrendra Vijay,CY,15,AP,avijay
+4720,Anand K,ME,16,AP,anand_k
+4715,Anand T N C,ME,17,AP,anand
+4451,Ananth Krishnan,EE,18,AP,ananthk
+4812,Anantha Subramanian V,OE,19,Prof,subru
+4278,Ananthanarayanan K,CE,20,Prof,kananth
+4216,Anbarasan P,CY,21,AP,anbarasansp
+4424,Andrew Thangaraj,EE,22,ASP,andrew
+4726,Anil Meena,ME,23,AP,anilm
+4425,Anil Prabhakar,EE,24,Prof,anilpr
+4468,Aniruddhan S,EE,25,AP,ani
+4460,Anjan Chakravorthy,EE,26,ASP,anjan
+4106,Anju Chadha,BT,27,Prof,anjuc
+4531,Anup Kumar Bhandari,HS,28,AP,anup
+4075,Anuradha Banerjee,AM,29,AP,anuban
+4372,Anurag Mittal,CS,30,ASP,amittal
+4279,Apparao G,CE,31,Prof,garao
+4863,Aravind G,PH,32,AP,garavind
+4417,Aravind R,EE,33,Prof,aravind
+4217,Archita Patnaik,CY,34,Prof,archita
+4635,Arijit Dev,MA,35,AP,arijit
+4613,Arindama Singh,MA,36,Prof,asingh
+4070,Arockiarajan A,AM,37,ASP,aarajan
+4553,Arshinder Kaur,MS,38,ASP,arshinder
+4236,Arti Dua,CY,39,ASP,arti
+4292,Arul Jayachandran S,CE,40,ASP,aruls
+4878,Arul Lakshminarayan,PH,41,Prof,arul
+4066,Arul Prakash K,AM,42,ASP,arulk
+4600,Arun Kumar,MA,43,AP,arunk
+4563,Arun Kumar G,MS,44,Prof,garun
+4050,Arun Kumar Thittai,AM,45,ASP,akthittai
+4299,Arun Menon,CE,46,AP,arunmenon
+4463,Arun Pachai Kannu,EE,47,AP,arunpachai
+4181,Arun Tangirala K,CH,48,ASP,arunkt
+4722,Arunachalam N,ME,49,AP,chalam
+4445,Arunkumar D Mahindrakar,EE,50,ASP,arun_dm
+4696,Arunn Narasimhan,ME,51,Prof,arunn
+4654,Arvind Pattamatta,ME,52,AP,arvindp
+4629,Arya Kumar Bedabrata Chand,MA,53,ASP,chand
+4716,Ashis Kumar Sen,ME,54,AP,ashis
+4785,Ashutosh S. Gandhi,MM,55,ASP,a.s.gandhi
+4318,Ashwin Mahalingam,CE,56,AP,mash
+4707,Asokan Thondiyath,ED,57,Prof,asok
+4140,Athi Narayanan N,BT,58,AP,athi
+4270,Atul Narayan S P,CE,59,AP,atulnryn
+4521,Aysha Iqbal,HS,60,Prof,draysha
+4688,Babu Viswanathan,ME,61,Prof,vbabu
+4065,Baburaj A P,AM,62,ASP,apbraj
+4761,Balachandran G,MM,63,Vprof,gbala
+4293,Balaji Narasimhan,CE,64,ASP,nbalaji
+4631,Balaji R,MA,65,AP,balaji5
+4426,Balaji Srinivasan,EE,66,ASP,balajis
+4660,Balakrishna Rao,ED,67,AP,balkrish
+4154,Balakrishnan A R,CH,68,Prof,arbala
+4853,Balakrishnan V,PH,69,Prof,vbalki
+4767,Balasubramanian M,MM,70,Prof,mbala
+4164,Basavaraja Madivala Gurappa,CH,71,AP,basa
+4110,Baskar R,BT,72,ASP,rbaskar
+4218,Baskaran S,CY,73,Prof,sbhaskar
+4206,Beeraiah Baire,CY,74,AP,beeru
+4310,Benny Raphael,CE,75,ASP,benny
+4455,Bharath Bhikkaji,EE,76,AP,bharath.bhikkaji
+4010,Bhaskar K,AE,77,Prof,kbhas
+4403,Bhaskar Ramamurthi,EE,78,Prof,bhaskar
+4803,Bhattacharya S K,OE,79,Prof,skbh
+4765,Bhattacharya S S,MM,80,Prof,ssb
+4730,Bhuvaneshwar G,ED,81,AP,bhuvanesh
+4222,Bhyrappa P,CY,82,Prof,byra
+4459,Bijoy Krishna Das,EE,83,ASP,bkdas
+4400,Bikash Kumar Dey,EE,84,ASP,bikash
+4528,Binitha V  Thampi,HS,85,AP,binithathampi
+4465,Boby  George,EE,86,ASP,boby
+4273,Boominathan A,CE,87,Prof,boomi
+4689,Chakravarthy Balaji,ME,88,Prof,balaji
+4011,Chakravarthy S R,AE,89,Prof,src
+4363,Chandra Sekhar C,CS,90,Prof,cchandra
+4103,Chandra T S,BT,91,Prof,chandra
+4203,Chandrakumar N,CY,92,Prof,nckumar
+4690,Chandramouli P,ME,93,Prof,mouli
+4111,Chandraraj K,BT,94,ASP,kcraj
+4503,Chaudhary S C,HS,95,Prof,scc
+4525,Chella Rajan,HS,96,Prof,scrajan
+4350,Chester Rebeiro,CS,97,AP,chester
+4155,Chidambaram M,CH,98,Prof,chidam
+4307,Christian Thaulow,CE,99,Prof,chr
+8446,Christoph Woiwode,HS,100,Prof,cwoiwode
+4297,Dali Naidu Arnepalli,CE,101,AP,arnepalli
+4405,David Koilpillai,EE,102,Prof,davidk
+4848,Dawood Kothawala,PH,103,AP,dawood
+4223,Debashis Chakraborty,CY,104,ASP,dchakraborty
+4479,Debdutta Ray,EE,105,AP,dray
+4466,Deepa Venkitesh,EE,106,AP,deepav
+4365,Deepak Khemani,CS,107,Prof,khemani
+4828,Deepak Kumar,OE,108,AP,deepakkumar
+4471,Deleep R Nair,EE,109,AP,deleep
+4855,Deshmukh PC,PH,110,Prof,phypcd
+4510,Devaki Reddy S,HS,111,ASP,dre
+4253,Devdas Menon,CE,112,Prof,dmenon
+4418,Devendra Jalihal,EE,113,Prof,dj
+4204,Dhamodharan R,CY,114,Prof,damo
+4697,Dhiman Chatterjee,ME,115,ASP,dhiman
+4224,Dillip Kumar Chand,CY,116,Prof,dillip
+4899,Dillip Kumar Satapathy,PH,117,AP,dks
+4107,Doble Mukesh,BT,118,Prof,mukeshd
+4280,Dodagoudar G R,CE,119,Prof,goudar
+4780,Durga Janaki Ram Gabbita,MM,120,ASP,jram
+4232,Edamana Prasad,CY,121,ASP,pre
+4419,Enakshi Bhattacharya,EE,122,Prof,enakshi
+4157,Ethayaraja Mani,CH,123,AP,ethaya
+4504,Evangeline Manickam,HS,124,Prof,eva
+4570,Feroz Ali Khader,MS,125,AP,fak
+4250,Fiener Peter,CE,126,Prof,peter
+4535,Franziska,HS,127,AP,franziska
+8447,Franziska Steinbruch,CE,128,Prof,fsteinbruch
+4745,Ganapathy Krishnamurthi,ED,129,AP,gankrish
+4770,Gandham Phanikumar,MM,130,ASP,gphani
+4255,Gandhi S R,CE,131,Prof,srgandhi
+4891,Ganesan A  R,PH,132,ASP,arg
+4657,Ganesan V,ME,133,Prof,vganesan
+4554,Ganesh L S,MS,134,Prof,lsg
+4574,Ganesh M P,MS,135,AP,mpganesh
+4768,Ganesh Sundara Raman,MM,136,Prof,ganesh
+4467,Ganti Radha Krishnan,EE,137,AP,rganti
+4453,Gaurav Raina,EE,138,AP,g.raina
+4420,Giridhar K,EE,139,Prof,giridhark
+4298,Gitakrishnan Ramadurai,CE,140,AP,gitakrishnan
+4691,Gnanamoorthy R,ME,141,Prof,gmoorthy
+4353,Gonsalves T A,CS,142,Prof,tag
+4112,Gopala Krishna A,BT,143,ASP,agk
+4659,Govardhan M,ME,144,Prof,gova
+4108,Guhan Jayaraman,BT,145,Prof,guhanj
+4132,Hamsa Priya Mohana Sundaram,BT,146,AP,hamsa
+4500,Harendra Kumar Behera,HS,147,AP,harendra
+4766,Hari Kumar K C,MM,148,Prof,kchkumar
+4879,Harish Kumar N,PH,149,ASP,nhk
+4421,Harishankar Ramachandran,EE,150,Prof,hsr
+4364,Hema A Murthy,CS,151,Prof,hema
+4250,Hemanta Doloi,CE,152,Vprof,hdoloi123
+4805,Idichandy V G,OE,153,Prof,chandy
+4219,Indrapal Singh Aidhen,CY,154,Prof,isingh
+4289,Indumathi Manivannan Nambi,CE,155,ASP,indunambi
+4095,Iris Ru-yu Lin,HS,156,AP,iris
+4406,Jagadeesh Kumar V,EE,157,Prof,vjk
+4600,Jamesmayhew,ME,158,AP,jamesmayhew
+4354,Janakiram D,CS,159,Prof,djram
+4129,Jayakrishnan A,BT,160,Prof,ajk
+4357,Jayalal Sarma M N,CS,161,AP,jayalal
+4625,Jayanthan A V,MA,162,AP,jayanav
+4427,Jayashankar  V,EE,163,Prof,jshankar
+4850,Jayeeta Bhattacharyya,PH,164,AP,jayeeta
+4408,Jhunjhunwala Ashok,EE,165,Prof,ashok
+4885,Jim Libby,PH,166,ASP,libby
+4825,Jitendra Sangwai,OE,167,ASP,jitendrasangwai
+4511,Joe Thomas Karackattu,HS,168,AP,joe
+4006,Joel George M,AE,169,AP,joel
+4511,John Bosco Lourdusamy,HS,170,ASP,jblsamy
+4383,John Ebenezer Augustine,CS,171,AP,augustine
+4518,Jyotirmaya Tripathy,HS,172,ASP,jyotirmaya
+4520,Kalpana K,HS,173,AP,kkalpana
+4630,Kalpana M,MA,174,AP,kmahalingam
+4446,Kalyan Kumar B,EE,175,ASP,bkalyan
+4368,Kamakoti V,CS,176,Prof,kama
+4556,Kamalanabhan TJ,MS,177,Prof,tjk
+4475,Kamalesh Hatua,EE,178,AP,kamalesh
+4769,Kamaraj M,MM,179,Prof,kamaraj
+4753,Kanjarla Anand Krishna,MM,180,AP,kanjarla
+4170,Kannan A,CH,181,Prof,kannan
+4409,Karmalkar S,EE,182,Prof,karmal
+4282,Karthik K Srinivasan,CE,183,Prof,karthikks
+4139,Karthik Raman,BT,184,AP,kraman
+4126,Karunagaran D,BT,185,Prof,karuna
+4868,Kasiviswanathan S,PH,186,Prof,kasi
+4411,Kaushik Mitra,EE,187,AP,kmitra
+4740,Kavitha Arunachalam,ED,188,AP,akavitha
+4124,Kesavan V,BT,189,ASP,vkesavan
+4400,Kiran Kuchi,EE,190,AP,kirank
+4257,Koshy Varghese,CE,191,Prof,koshy
+4249,Kothandaraman Ramanujam,CY,192,AP,rkraman
+4469,Krishna Jagannathan,EE,193,AP,krishnaj
+4378,Krishna M Sivalingam,CS,194,Prof,skrishnam
+4380,Krishna Nandivada V,CS,195,AP,nvk
+4571,Krishna Prasana P,MS,196,ASP,pkp
+4448,Krishna S,EE,197,AP,krishnas
+4428,Krishna Vasudevan,EE,198,Prof,krishna.vasudevan
+8040,Krishnaiah K,CH,199,Prof,krishnak
+4708,Krishnakannan,ME,200,ASP,krishnakannan
+4661,Krishnakumar R,ED,201,Prof,rkkumar
+8000,Krishnamoorthy Srilakshmi,MA,202,IF,srilakshmi
+4864,Krishnamurthy C V,PH,203,ASP,cvkm
+4662,Krishnan Balasubramanian,ME,204,Prof,balas
+4820,Krishnankutty P,OE,205,Prof,pkrishnankutty
+4100,Kristin Steger,BT,206,Prof,kristins
+4606,Kulkarni S H,MA,207,Prof,shk
+4640,Kunal Krishna Mukherjee,MA,208,AP,kunal
+4786,Lakshman Neelakantan,MM,209,AP,nlakshman
+4059,Lakshmana Rao C,AM,210,Prof,lakshman
+4869,Lakshmi Bala S,PH,211,Prof,slbala
+4462,Lakshminarasamma N,EE,212,AP,lakshmin
+4567,Lata Dyaram,MS,213,AP,lata.dyaram
+4291,Lelitha Devi,CE,214,ASP,lelitha
+4274,Ligy Philip,CE,215,Prof,ligy
+4003,Luoyi Tao,AE,216,Prof,luoyitao
+4581,M Geetha,MS,217,AP,m.geetha
+4360,M Rajsekar,CS,218,AP,rajsekar
+4379,Madhu Mutyam,CS,219,ASP,mutyam
+4131,Madhulika Dixit,BT,220,ASP,mdixit
+4565,Madhumathi R,MS,221,Prof,rmm
+4130,Mahalingam S,BT,222,Prof,mahalingam
+4880,Mahaveer Kumar Jain,PH,223,ASP,mkjain
+4429,Mahesh Kumar,EE,224,Prof,maheshk
+4056,Mahesh Panchagnula,AM,225,Prof,mvp
+4200,Mahinddin Baidya,CY,226,AP,mbaidya
+4505,Malathy D,HS,227,Prof,mdurai
+4698,Mallikarjuna J M,ME,228,ASP,jmmallik
+4782,Manas Mukherjee,MM,229,AP,manas.mukherjee
+4220,Mangala Sunder K,CY,230,Prof,mangal
+4666,Mani A,ME,231,Prof,mania
+4806,Mani J S,OE,232,Prof,jsmani
+4064,Manivannan M,AM,233,Prof,mani
+4710,Manivannan P V,ME,234,AP,pvm
+4430,Manivasakan R,EE,235,AP,rmani
+4894,Manoj Gopalakrishnan,PH,236,ASP,manojgopal
+4113,Manoj N,BT,237,ASP,nmanoj
+4658,Manoj Pandey,ME,238,AP,mpandey
+4893,Manu Jaiswal,PH,239,AP,manu.jaiswal
+4283,Manu Santhanam,CE,240,Prof,manus
+4400,Marian Walter,EE,241,Visiting AP,marian.walter
+4870,Markandeyulu G,PH,242,Prof,mark
+4530,Mathangi Krishnamurthy,HS,243,AP,mathangi
+4431,Mathiazagan C,EE,244,AP,mathi
+4025,Mathur Sankaranarayanan Manikandan,AE,245,AP,manims
+4680,Mayank Mittal,ME,246,AP,mmittal
+4692,Mayuram M M,ME,247,Prof,mayuram
+4350,Meghana Nasre,CS,248,AP,meghana
+4260,Meher Prasad A,CE,249,Prof,prasadam
+4500,MERIN SIMI RAJ,HS,250,AP,merin
+4138,Michael Gromiha M,BT,251,ASP,gromiha
+4508,Milind Brahme,HS,252,ASP,brahme
+4207,Mishra  A K,CY,253,Prof,mishra
+4261,Mohan S,CE,254,Prof,smohan
+4512,Mohan S,HS,255,AP,smo
+4454,Mohanasankar S,EE,256,AP,mohanasankar
+4233,Muraleedharan K M,CY,257,ASP,mkm
+4506,Muraleedharan V R,HS,258,Prof,vrm
+4141,Murali Gururajan,BT,259,AP,muralig
+4816,Murali K,OE,260,Prof,murali
+4284,Murali Krishnan J,CE,261,ASP,jmk
+4014,Murthy H S N,AE,262,Prof,mhsn
+4225,Murthy N N,CY,263,Prof,nnmurthy
+4859,Murthy VRK,PH,264,Prof,vrkm
+4262,Murty B S,CE,265,Prof,bsm
+4754,Murty B S,MM,266,Prof,murty
+4302,Murty C V R,CE,267,Prof,cvrm
+4022,Muruganandam T M,AE,268,ASP,murgi
+4897,Murugavel P,PH,269,ASP,muruga
+4693,Muthuveerappan G,ME,270,Prof,jmvr
+4158,Nagarajan R,CH,271,Prof,nag
+4015,Nagendra Gopal K V,AE,272,AP,gopal
+4444,Nagendra Krishnapura,EE,273,ASP,nagendra
+4285,Nageswara Rao B,CE,274,Prof,bnrao
+4819,Nallayarasu S,OE,275,Prof,nallay
+4021,Nandan Kumar Sinha,AE,276,Prof,nandanks
+4580,Nandan Sudarsanam,MS,277,AP,nandan
+4422,Nandita Das Gupta,EE,278,Prof,nand
+4239,Nandita M,CY,279,AP,nanditam
+4743,Narasimhan Swaminathan,ME,280,AP,n.swaminathan
+4605,Narayanan N,MA,281,AP,naru
+4667,Narayanan S,ME,282,Prof,narayans
+4369,Narayanaswamy N S,CS,283,ASP,swamy
+4557,Narendran T T,MS,284,Prof,ttn
+4860,Natarajan T S,PH,285,Prof,tsn
+4632,Neelesh S Upadhye,MA,286,AP,neelesh
+4861,Neelima M Gupte,PH,287,Prof,gupte
+4176,Niket Kaisare,CH,288,ASP,nkaisare
+4827,Nilanjan Saha,OE,289,AP,nilanjan
+4706,Nilesh Jayantilal Vasa,ED,290,Prof,njvasa
+4162,Nirav Pravinbhai Bhatt,CH,291,IF,niravbhatt
+4888,Nirmala R,PH,292,ASP,nirmala
+4432,Nitin Chandrachoodan,EE,293,ASP,nitin
+4128,Nitish R Mahapatra,BT,294,ASP,nmahapatra
+4738,Palaniappan Ramu,ED,295,AP,palramu
+4030,Panchapakesan N R,AE,296,ASP,panch
+4160,Panda T,CH,297,Prof,panda
+4358,Pandu Rangan C,CS,298,Prof,prangan
+4807,Panneer Selvam R,OE,299,ASP,pselvam
+4714,Parag Ravindran,ME,300,AP,paragr
+4758,Paramanand Singh,MM,301,Prof,ps
+4750,Parasuraman Swaminathan,MM,302,AP,swamnthn
+4890,Pattabiraman M,PH,303,ASP,pattu
+4850,Paul Ramesh,PH,304,AP,paulramesh
+4600,Pierre Fima,MA,305,AP,pfima
+4060,Pijush Ghosh,AM,306,AP,pijush
+4615,Ponnusamy S,MA,307,Prof,samy
+4850,Prabha Mandayam,PH,308,AP,prabhamd
+4410,Prabhu  K M M,EE,309,ASP,kmprabhu
+4741,Prabhu Rajagopal,ME,310,ASP,prajagopal
+4473,Pradeep Sarvepalli,EE,311,AP,sarvepalli
+4208,Pradeep T,CY,312,Prof,pradeep
+4898,Prafulla Kumar Behera,PH,313,ASP,behera
+4884,Prahallad Padhan,PH,314,AP,padhan
+4665,Prakash Maiya M,ME,315,Prof,mpmaiya
+4568,Prakash Sai L,MS,316,Prof,lps
+4477,Pramitha V,EE,317,IF,pv
+4670,Pramod S Mehta,ME,318,Prof,psmehta
+4671,Prasad B V S S S,ME,319,Prof,prasad
+4068,Prasad Patnaik B S V,AM,320,Prof,bsvp
+4889,Prasanta Kumar Tripathy,PH,321,ASP,prasanta
+4771,Prathap Haridoss,MM,322,Prof,prathap
+4185,Preeti Aghalayam,CH,323,Prof,preeti
+4866,Prem B Bisht,PH,324,Prof,bisht
+4513,Prema Rajagopalan,HS,325,ASP,prema
+4161,Pushpavanam S,CH,326,Prof,spush
+4620,Radha R,MA,327,Prof,radharam
+4303,Radhakrishna G  Pillai,CE,328,AP,pillai
+4295,Raghavan N,CE,329,AP,nraghavan
+4359,Raghavan S V,CS,330,Prof,svr
+4712,Raghavan V,ME,331,ASP,raghavan
+4381,Raghavendra Rao B V,CS,332,AP,bvrr
+4076,Raghavendra Sai V V,AM,333,AP,vvrsai
+4694,Raghu Prakash V,ME,334,Prof,raghuprakash
+4296,Raghukanth S T G,CE,335,ASP,raghukanth
+4159,Raghunathan Rengasamy,CH,336,Prof,raghur
+4178,Raghuram Chetty,CH,337,ASP,raghuc
+4579,Rahul Marathe,MS,338,ASP,rrmarathe
+4263,Rajagopal K,CE,339,Prof,gopalkr
+4433,Rajagopalan A N,EE,340,Prof,anraju
+4231,Rajakumar B,CY,341,ASP,rajakumar
+4116,Rajamanickam Murugan,BT,342,AP,rmurugan
+4559,Rajendran C,MS,343,Prof,craj
+4032,Rajesh G,AE,344,ASP,grajesh
+4537,Rajesh Kumar,HS,345,ASP,rajesh
+4858,Rajesh Narayanan,PH,346,ASP,rnarayanan
+4824,Rajesh R Nair,OE,347,ASP,rajeshnair
+4822,Rajiv Sharma,OE,348,ASP,rajivatri
+4673,Raju Sethuraman,ME,349,Prof,sethu
+4616,Rama R,MA,350,Prof,ramar
+4109,Rama Shanker Verma,BT,351,Prof,vermars
+4872,Ramachandra  Rao MS,PH,352,Prof,msrrao
+4118,Ramachandran K B,BT,353,Prof,kbram
+4005,Ramakrishna M,AE,354,Prof,krishna
+4018,Ramakrishna P A,AE,355,Prof,parama
+4073,Ramakrishnan S,AM,356,Prof,sramki
+4434,Ramalingam C S,EE,357,ASP,csr
+4265,Ramamurthy K,CE,358,Prof,vivek
+4734,Ramanathan M,ED,359,ASP,mraman
+4171,Ramanathan S,CH,360,Prof,srinivar
+4862,Ramaprabhu S,PH,361,Prof,ramp
+4057,Ramasubba Reddy M,AM,362,Prof,rsreddy
+4676,Ramesh A,ME,363,Prof,aramesh
+4675,Ramesh Babu N,ME,364,Prof,nrbabu
+4248,Ramesh Gardas,CY,365,AP,gardas
+4058,Ramesh K,AM,366,Prof,kramesh
+4028,Ramesh O N,AE,367,Visiting AP,onramesh
+4470,Ramkrishna Pasumarthy,EE,368,AP,ramkrishna
+4684,Ramkumar P,ME,369,AP,ramkumar
+4174,Ramnarayanan R,CH,370,AP,ramna
+4226,Ranga Rao G,CY,371,Prof,grrao
+4558,Rangaraja Sundraraj P,MS,372,Prof,rpsundarraj
+4778,Ranjit Bauri,MM,373,ASP,rbauri
+4887,Ranjit Kumar Nanda,PH,374,AP,nandab
+4026,Ranjith Mohan,AE,375,AP,ranjith.m
+4719,Ratna Kumar Annabattula VVSD,ME,376,AP,ratna
+4175,Ravi Krishna R,CH,377,ASP,rrk
+4167,Ravi R,CH,378,Prof,rravi
+4779,Ravi Sankar K,MM,379,AP,ravi.sankar
+4711,Ravikiran Sangras,ME,380,AP,sangras
+4777,Ravikumar N V,MM,381,ASP,nvrk
+4266,Ravindra Gettu,CE,382,Prof,gettu
+4370,Ravindran B,CS,383,ASP,ravib
+4435,Ravishankar A,EE,384,AP,ravias
+4186,Renganathan T,CH,385,AP,renga
+4564,Richa Agrawal,MS,386,AP,richa
+4069,Rinku Mukherjee,AM,387,AP,rinku
+4286,Robinson R G,CE,388,Prof,robinson
+4561,Rupashree Baral,MS,389,AP,rupashree
+4301,Rupen Goswami,CE,390,AP,rg
+4350,Rupesh Nasre,CS,391,AP,rupesh
+4849,Ryckaerj,PH,392,AP,jryckaer
+9144,S Mathava Kumar,CE,393,AP,mathav
+4500,S P Dhanavel,HS,394,Prof,dhanavelsp
+4755,Sabita Sarkar,MM,395,AP,sabita.sarkar
+4532,Sabuj Kumar Mandal,HS,396,AP,sabuj
+4308,Sachin S Gunthe,CE,397,AP,s.gunthe
+4163,Sai PST,CH,398,Prof,psts
+4573,Saji Mathew,MS,399,ASP,saji
+4013,Sameen A,AE,400,ASP,sameen
+4773,Sampath V,MM,401,Prof,vsampath
+4772,Sampathkumar T S,MM,402,Prof,tssk
+4699,Samuel G L,ME,403,ASP,samuelgl
+4733,Sandipan Bandyopadhyay,ED,404,AP,sandipan
+4209,Sangaranayanan M V,CY,405,Prof,sangara
+4227,Sanjay Kumar,CY,406,Prof,sanjay
+4122,Sanjib Senapati,BT,407,ASP,sanjibs
+4737,Sankara J Subramanian,ED,408,ASP,shankar_sj
+4776,Sankaran S,MM,409,ASP,ssankaran
+4200,Sankaran Subramanian,CY,410,Prof,subukannan
+4873,Sankaranarayanan V,PH,411,Prof,vsn
+4210,Sankararaman S,CY,412,Prof,sanka
+4817,Sannasiraj S A,OE,413,Prof,sasraj
+4031,Santanu Ghosh,AE,414,AP,sghosh1
+4600,Santanu sarkar,MA,415,AP,santanu
+4536,Santhosh Abraham,HS,416,AP,abraham
+4228,Santhosh Gharpure,CY,417,AP,sjgharpure
+4882,Santhosh PN,PH,418,ASP,santhosh
+4517,Santhosh R,HS,419,AP,rsanthosh
+4621,Sanyasiraju Y V S S,MA,420,Prof,sryedida
+4600,Sarang sharad sane,MA,421,AP,sarang
+4436,Sarathi  R,EE,422,Prof,rsarathi
+4736,Saravana kumar G,ED,423,ASP,gsaravana
+4314,Saravanan U,CE,424,ASP,saran
+4050,Sarith P Sathian,AM,425,AP,sarith
+4655,Saritkumar Das,ME,426,Prof,skdas
+4721,Sateesh Gedupudi,ME,427,AP,sateeshg
+4287,Sathish Kumar S R,CE,428,Prof,kim
+4669,Sathyan S,ME,429,Prof,sathyans
+4114,Sathyanarayana N Gummadi,BT,430,Prof,gummadi
+4509,Satya Sundar Sethy,HS,431,AP,satyasundar
+4617,Satyajit Roy,MA,432,Prof,sjroy
+4268,Satyanarayana K N,CE,433,Prof,satyakn
+4874,Satyanarayana MV,PH,434,Prof,mvs
+4072,Saumendra Kumar Bajpai,AM,435,AP,sbajpai
+4731,Savio Sebastian,ED,436,Prof,savio
+4055,Sayan Gupta,AM,437,ASP,sayan
+4350,Sayan Ranu,CS,438,AP,sayanranu
+4250,Seetharam K E,CE,439,AP,seetharam
+4229,Sekar G,CY,440,Prof,gsekar
+4235,Selvam P,CY,441,Prof,selvam
+4709,Seshadri Sekhar A,ME,442,Prof,as_sekhar
+4875,Sethupathi K,PH,443,Prof,ksethu
+4638,Shaiju A J,MA,444,AP,ajshaiju
+4054,Shaikh Faruque Ali,AM,445,AP,sfali
+4729,Shaligram Tiwari,ME,446,Prof,shaligt
+4700,Shamit Bakshi,ME,447,ASP,shamit
+4371,Shankar Balachandran,CS,448,ASP,bshankar
+4023,Shankar Ghosh,AE,449,AP,gshankar
+4701,Shankar Krishnapillai,ME,450,Prof,skris
+4165,Shankar Narasimhan S,CH,451,Prof,naras
+4705,Shankar Ram C S,ED,452,ASP,shankarram
+4818,Shanmugam P,OE,453,Prof,pshanmugam
+4016,Shantanu Shashikant Mulay,AE,454,AP,ssmulay
+4437,Shanthi Pavan,EE,455,Prof,shanthi.pavan
+4438,Shanti Bhattacharya,EE,456,ASP,shantib
+4474,Sheetal Kalyani,EE,457,AP,skalyani
+4534,Shireen Mirza,HS,458,AP,smirza
+4290,Shiva Nagendra S M,CE,459,ASP,snagendra
+4100,Shrikumar Suryanarayan,BT,460,AP,shrikumars
+4639,Shruti Dubey,MA,461,AP,sdubey
+4677,Shunmugam M S,ME,462,Prof,shun
+4009,Shyam Keralavarma,AE,463,AP,shyam
+4667,Shyama Prasad Das,ME,464,AP,spdas
+4550,Sibylle Petrak,HS,465,ASP,sibylle
+4361,Siva Ram Murthy C,CS,466,Prof,murthy
+4622,Sivakumar K C,MA,467,Prof,kcskumar
+4061,Sivakumar M S,AM,468,Prof,mssiva
+4258,Sivakumar Palaniappan,CE,469,AP,sp
+4275,Sivanandan R,CE,470,Prof,rsiva
+4857,Sivarama Krishnan,PH,471,AP,srkrishnan
+4008,Sivasambu Mahesh,AE,472,ASP,smahesh
+4127,Smita Srivastava,BT,473,AP,smita
+4500,Solomon J Benjamin,HS,474,ASP,solly.benj
+4744,Soma Guhathakurtha,ED,475,Prof,soma
+4681,Somashekhar S,ME,476,ASP,somashekhar
+4886,Somnath Chanda Roy,PH,477,AP,somnath
+4523,Sonika Gupta,HS,478,ASP,sonika
+4309,Soumendra Nath Kuiry,CE,479,AP,snkuiry
+4472,Soumya Dutta,EE,480,AP,s.dutta
+4627,Sounaka Mishra,MA,481,AP,sounak
+4718,Soundarapandian S,ME,482,AP,sspandian
+4693,Sourav Rakshit,ME,483,AP,srakshit
+4514,Sreekumar N,HS,484,Prof,srkumar
+4168,Sreenivas Jayanti,CH,485,Prof,sjayanti
+4366,Sreenivasa Kumar P,CS,486,Prof,psk
+4730,Sreeram T R,ED,487,ASP,trsreeram
+4177,Sridharakumar Narasimhan,CH,488,ASP,sridharkrn
+4423,Sridharan  K,EE,489,Prof,sridhara
+4739,Srikanth Vedantam,ED,490,Prof,srikanth
+4439,Srikrishna B,EE,491,ASP,skrishna
+4713,Srikrishna Sahu,ME,492,AP,ssahu
+4515,Srilata K,HS,493,Prof,sree
+4115,Srinivasa Chakravarthy V,BT,494,Prof,schakra
+4781,Srinivasa Rao Bakshi,MM,495,AP,sbakshi
+4623,Srinivasa Rao C H,MA,496,ASP,chsrao
+4637,Srinivasa Rao Manam,MA,497,ASP,manam
+4702,Srinivasa Reddy K,ME,498,Prof,ksreddy
+4821,Srinivasan Chandrasekaran,OE,499,Prof,drsekaran
+4560,Srinivasan G,MS,500,Prof,gsrini
+4703,Srinivasan K,ME,501,Prof,ksri
+4269,Srinivasan K,CE,502,Prof,ksrini
+4413,Srinivasan S,EE,503,Prof,srinis
+4007,Sriram P,AE,504,Prof,sriram
+4813,Sriram V,OE,505,AP,vsriram
+4447,Srirama Srinivas,EE,506,ASP,srsrini12
+4854,Sriramkumar L,PH,507,ASP,sriramkumar
+4507,Subash S,HS,508,AP,subash
+4304,Subhadeep Banerjee,CE,509,AP,subhadeep
+4865,Subrahmanyam A,PH,510,Prof,manu
+4609,Subrahmanyam P V,MA,511,Prof,pvs
+4119,Subramaniam K,BT,512,Prof,subbu
+4883,Subramanian V,PH,513,Prof,manianvs
+4774,Subramanya Sarma V,MM,514,ASP,vsarma
+4895,Sudakar Chandran,PH,515,AP,csudakar
+4526,Sudarsan P,HS,516,ASP,sudarsanp
+4212,Sudheendra Rao M N,CY,517,Prof,mnsrao
+4288,Sudheer K P,CE,518,Prof,sudheer
+4600,Suhas Jaykumar Pandit,MA,519,AP,suhas
+4682,Sujatha C,ME,520,Prof,sujatha
+4067,Sujatha N,AM,521,ASP,nsujatha
+4728,Sujatha Srinivasan,ME,522,ASP,sujsree
+4012,Sujith R I,AE,523,Prof,sujith
+4367,Sukhendu Das,CS,524,Prof,sdas
+4100,Sumantran,BT,525,AP,sumantran
+4618,Sundar S,MA,526,Prof,slnt
+4809,Sundar V,OE,527,Prof,vsundar
+4750,Sundararajan G,MM,528,Prof,gsundararajan
+4650,Sundararajan Natarajan,ME,529,Prof,snatarajan
+4683,Sundararajan T,ME,530,Prof,tsundar
+4783,Sundararaman M,MM,531,Prof,msraman
+4810,Sundaravadivelu R,OE,532,Prof,rsun
+4230,Sundargopal Ghosh,CY,533,ASP,sghosh
+4871,Sunethra Ramanan,PH,534,AP,suna
+4024,Sunetra  sarkar,AE,535,ASP,sunetra
+4876,Sunil Kumar P B,PH,536,Prof,sunil
+4105,Suraishkumar G K,BT,537,Prof,gk
+4305,Surendra P Shah,CE,538,Prof,s.shah
+4815,Surendran S,OE,539,Prof,sur
+4867,Suresh Govindarajan,PH,540,Prof,suresh
+4814,Suresh Kumar G,OE,541,ASP,gskumar
+4137,Suresh Kumar Rayala,BT,542,ASP,rayala
+4527,Sureshbabu M,HS,543,ASP,sureshbabum
+4742,Sushanta Kumar Panigrahi,ME,544,AP,skpanigrahi
+4172,Susy Varughese,CH,545,Prof,susy
+4376,Sutanu Chakraborti,CS,546,ASP,sutanuc
+4311,Swaminathan Krishnan,CE,547,VProf,swamikrishnan
+4519,Swarnalatha R,HS,548,ASP,swarna
+4440,Swarup K S,EE,549,Prof,ksswarup
+4533,Tabraz  S S,HS,550,AP,tabraz
+4173,Tanmay Basak,CH,551,Prof,tanmay
+4853,Tarun K Chandrayadula,OE,552,AP,tkchandr
+4610,Thamban Nair M,MA,553,Prof,mtnair
+4562,Thenmozhi M,MS,554,Prof,mtm
+4569,Thillai Rajan A,MS,555,ASP,thillair
+4271,Thyagaraj T,CE,556,AP,ttraj
+4750,Tiju Thomas,MM,557,AP,tijuthomas
+4775,Uday Chakkingal,MM,558,Prof,udaychak
+4626,Uma V,MA,559,AP,vuma
+4516,Umakant Dash,HS,560,Prof,dash
+4461,Umesh S,EE,561,Prof,umeshs
+4535,Upasna Sharma,HS,562,AP,upasna
+4184,Upendra Natarajan,CH,563,Prof,unatarajan
+4576,Usha Mohan,MS,564,ASP,ushamohan
+4611,Usha R,MA,565,Prof,ushar
+4250,V S Gopalaratnam,,566,,gopalv
+4141,Vani Janakiraman,BT,567,AP,vani
+4215,Varadaraju U V,CY,568,Prof,varada
+4071,Varadhan S K M,AM,569,AP,skm
+4572,Varisha Rehman,MS,570,AP,varisha
+4717,Varunkumar S,ME,571,AP,varuns
+4624,Vasantha W B,MA,572,AP,vasantha
+4612,Veeramani P,MA,573,Prof,pvmani
+4272,Veeraragavan A,CE,574,Prof,av
+4896,Veeturi Srinivas,PH,575,Prof,veeturi
+4017,Velmurugan R,AE,576,Prof,ramanv
+4811,Vendhan C P,OE,577,Prof,vendhan
+4063,Vengadesan S,AM,578,Prof,vengades
+4628,Venkata Balaji T E,MA,579,AP,tevbal
+4243,Venkatakrishnan P,CY,580,AP,pvenkat
+4685,Venkatarathnam G,ME,581,Prof,gvenkat
+4117,Venkatesh Balasubramanian,ED,582,Prof,chanakya
+4400,Venkatesh G,EE,583,Prof,venkateshg
+4464,Venkatesh R,EE,584,AP,rvenkat
+4441,Venkatesh T G,EE,585,AP,tgvenky
+4686,Venkateshan S P,ME,586,Prof,spv
+4050,Venkattraman A,AM,587,AP,venkatt
+4281,Venu Chandra,CE,588,AP,vc
+4619,Vetrivel V,MA,589,Prof,vetri
+4294,Vidya Bhushan Maji,CE,590,AP,vbmaji
+4221,Vidyasagar K,CY,591,Prof,kvsagar
+4123,Vignesh MuthuVijayan,BT,592,AP,vigneshm
+4566,Vijayalakshmi V,MS,593,AP,viji
+4877,Vijayan C,PH,594,Prof,cvijayan
+5156,Vijayaraghavan K,CH,595,AP,cevijay
+4687,Vijayaraghavan L,ME,596,Prof,lvijay
+4730,Vikram Bhat,ED,597,AP,vikram
+4442,Vinita Vasudevan,EE,598,Prof,vinita
+4187,Vinu R,CH,599,AP,vinu
+4664,Viswanath K,ME,600,AP,viswanathk
+4905,Zlotea Mugurel Dan,HS,601,AP,mugurelzlotea
