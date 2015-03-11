@@ -17,7 +17,7 @@ start_urls = ["https://www.iitm.ac.in/info/faculty"]
 The datas are contained within : table[@class="sticky-enabled"]/tbody/tr
 as shown here:
 <tr class="odd"><td class="active"><a href="/info/fac/amal">Amal Kanti</a></td><td>BT</td><td>ASP</td><td>4121</td><td>amal</td> </tr>
- <tr class="even"><td class="active"><a href="/info/fac/amitk">Amit Kumar</a></td><td>AE</td><td>Prof</td><td>4019</td><td>amitk</td> </tr>
+<tr class="even"><td class="active"><a href="/info/fac/amitk">Amit Kumar</a></td><td>AE</td><td>Prof</td><td>4019</td><td>amitk</td> </tr>
 
 So extraction of data is done as follows:
 
